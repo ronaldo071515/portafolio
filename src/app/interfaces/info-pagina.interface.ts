@@ -2,7 +2,7 @@
 
 export interface infoPagina {
     title?: string;
-    email?: string
+    email?: string;
     nombr?: string;
     pagina_autor?: string;
     facebook?: string;
